@@ -10,4 +10,4 @@ Kanyescope works pretty easy:
 3. you will see buttons with a bunch of horoscope signs. Select one
 4. WOW -in Owen Wilson- there's your kanyescope!
 
-
+*There're some shitty coding, I was young)
